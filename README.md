@@ -1,11 +1,13 @@
 # Welcome!
-I am a student from Shanghai,China,14.  
+I am a student/developer from Shanghai,China,14.  
 You can call me DSTRO.   
-A Python,C/Cpp Developer.A Touhou Project player too.    
+A Python,C/Cpp Developer. A Touhou Project lover too.    
 
 ---
   
 My projects: SJA(Scratch Json Analyzer) developed with GuYan,kunkun  
-CTE(Cpp Touhou Engine,coming soon!) developing with dynamder   
+Genso-Y: developing with dynamder   
   
-My e-mail:supershc@126.com
+To reach me:supershc@126.com    
+    
+(Not a good English speaker)
